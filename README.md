@@ -14,7 +14,7 @@ I'm a **Data Scientist** with a PhD in **Bioinformatics** and over 7 years of ex
 - 👯 I’m interested in collaborating on:
   - Bioinformatics, data science, and genomics research
   - AI/ML projects, especially related to healthcare and drug discovery
-- 🌱 Currently honing my skills in advanced AI and **Dutch**.
+- 🌱 Currently honing my skills in advanced AI and omics.
 
 ## 🛠️ My Expertise
 
@@ -28,9 +28,10 @@ I'm a **Data Scientist** with a PhD in **Bioinformatics** and over 7 years of ex
 - **Flux prediction using artificial neural network (ANN)** for glycolysis optimization [PLoS ONE 2019](https://doi.org/10.1371/journal.pone.0216178)
 - **Machine learning for enzyme concentration optimization** in metabolic pathways [Catalysts 2020](https://doi.org/10.3390/catal10030291)
 
+<!--
 ## 📊 GitHub Stats:
 
-![Anamya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anamya&show_icons=true&theme=radical)
+![Anamya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anamya&show_icons=true&theme=radical) -->
 
 ## 🔗 Connect with Me:
 
