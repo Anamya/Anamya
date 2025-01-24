@@ -37,4 +37,4 @@ I'm a **Data Scientist** with a PhD in **Bioinformatics** and over 7 years of ex
 
 - [LinkedIn](https://www.linkedin.com/in/anamya-an)
 - [Email](mailto:ajjolli.an@gmail.com)
-- [BlueSky](@anamya-an.bsky.social)
+- [BlueSky](https://bsky.app/profile/anamya-an.bsky.social)
